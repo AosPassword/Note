@@ -565,11 +565,11 @@ public class TestController {
 }
 ```
 
-![123](C:\Users\Merphy\Desktop\学习\Spring IoC & Design Patterns\批注 2019-10-13 164057.png)
+![123](.\批注 2019-10-13 164057.png)
 
 ​		测试成功了，让我们再看一看Test：
 
-![234](C:\Users\Merphy\Desktop\学习\Spring IoC & Design Patterns\批注 2019-10-13 164307.png)
+![234](.\批注 2019-10-13 164307.png)
 
 ​		也在预料之中。
 
@@ -1144,7 +1144,7 @@ public class DispatcherServlet extends GenericServlet {
 
 ​		让我们跑起来实验一下：
 
-![hhhhhhh](C:\Users\Merphy\Desktop\学习\Spring IoC & Design Patterns\捕获.PNG)
+![hhhhhhh](.\捕获.PNG)
 
 ​		预料之中的结果，很开心。
 
