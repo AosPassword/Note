@@ -565,7 +565,7 @@ public class TestController {
 }
 ```
 
-![123](.\批注 2019-10-13 164057.png)
+![123](https://github.com/AosPassword/Note/blob/master/ioc/捕获.PNG)
 
 ​		测试成功了，让我们再看一看Test：
 
@@ -1144,7 +1144,7 @@ public class DispatcherServlet extends GenericServlet {
 
 ​		让我们跑起来实验一下：
 
-![hhhhhhh](.\捕获.PNG)
+![hhhhhhh](./捕获.PNG)
 
 ​		预料之中的结果，很开心。
 
@@ -1187,8 +1187,6 @@ request.getMethod:GET	request.getRequestURI:/favicon.ico
 ## 还有更多
 
 ### 标记
-
-​		我们在之前提到了一个概念，就是标记。标记的方法有两种，一种是标记接口，一种是注解。那么我们来在这里探讨一下我们什么时候应该使用标记接口，什么时候应该使用注解？关于标记
 
 ​		我们在之前提到了一个概念，就是标记。标记的方法有两种，一种是标记接口，一种是注解。那么我们来在这里探讨一下我们什么时候应该使用标记接口，什么时候应该使用注解？
 
